@@ -9,7 +9,8 @@
 ~~Strikethrough text~~  
 <sup>Superscript text</sup>  
 <sub>Subscript text</sub>  
-> Quote text  
+> Quote text
+>
 `*Quoted code*`  
 [Webpage link](https://github.com)  
 ![Image](https://i.pinimg.com/originals/30/b1/50/30b150cd489202db131009ac9540cec0.png)  
