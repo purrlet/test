@@ -6,3 +6,9 @@
 ###### Heading 6
 
 **Bold text**
+*Italic text*
+~~Strikethrough text~~
+<sup>Superscript text</sup>
+<sub>Subscript text</sub>
+> Quote text
+`*Quoted code*`
